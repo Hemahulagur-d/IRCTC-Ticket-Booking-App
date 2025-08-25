@@ -4,11 +4,7 @@
 
 This repository contains the **backend implementation** for an **IRCTC clone**, designed to handle core railway ticketing operations. Built using **Java Servlets** and **JDBC**, it powers essential APIs for **user management**, **train search**, **ticket booking**, and **cancellation**.
 
-🖥️ **Live Demo (Frontend)**:  
-👉 [https://irctc-rose.vercel.app](https://irctc-rose.vercel.app)
 
-🗂️ **Frontend GitHub Repo**:  
-👉 [https://github.com/prabhatsingh415/IRCTC](https://github.com/prabhatsingh415/IRCTC)
 
 ---
 
@@ -30,10 +26,6 @@ This repository contains the **backend implementation** for an **IRCTC clone**, 
 - 🧹 **Auto Ticket File Deletion** — tickets deleted 2 days after generation
 
 ---
-
-## 🌐 How to Use (Live Demo)
-
-Try the project live: 👉 [https://irctc-rose.vercel.app](https://irctc-rose.vercel.app)
 
 ### 🧭 Steps to Use
 
@@ -88,10 +80,6 @@ Try the project live: 👉 [https://irctc-rose.vercel.app](https://irctc-rose.ve
 ## 📥 Setup & Installation
 
 1. **Clone the repository**
-    ```bash
-    git clone https://github.com/prabhatsingh415/-irctc-app-backend.git
-    cd -irctc-app-backend
-    ```
 
 2. **Configure MySQL Database**
    - Create the required tables and update JDBC details in code.
@@ -126,9 +114,7 @@ Try the project live: 👉 [https://irctc-rose.vercel.app](https://irctc-rose.ve
 
 ## 👤 Author
 
-**Prabhat Singh**  
-💼 [GitHub Profile](https://github.com/prabhatsingh415)  
+**Hemahulagur-d**  
 
----
 
-> 💬 For queries, feedback, or contributions, feel free to [open an issue](https://github.com/prabhatsingh415/-irctc-app-backend/issues) or submit a pull request.
+
